@@ -1,0 +1,22 @@
+{ 
+  "world_name" : "Hotel World",
+  "valid_task" : ["Loop", "Clean"],
+  "task": {
+    "Delivery": {},
+    "Loop": {
+      "places": [
+        "L04_e",
+        "L03_e",
+        "lab_rob2_e1"
+      ]
+    },
+    "Clean": {
+      "option": [
+        "lab_biomed_e"
+      ]
+    },
+    "Station": {},
+    "Patrol": {},
+    "Charging": {}
+  }
+}
